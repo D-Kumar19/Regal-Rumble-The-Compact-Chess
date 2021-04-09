@@ -5,6 +5,7 @@ It is somehow more intersting Game than a Chess Game as it is not that super len
 
 Game is bit focused on King. We have to move King from one corner to another corner. And we have just one box empty.
 
-Till now minimum 11 moves are needed to move King to it's final position. Do your gut feelings say you can beat this record? If 'Yes' then let's have a try.....  
+Till now minimum 11 moves are needed to move King to it's final position. Do your gut feelings say you can beat this record?
+If 'Yes' then let's have a try.....  
 
 Good Luck!
