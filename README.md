@@ -19,10 +19,6 @@ Welcome to **Regal Rumble: The Compact Chess Challenge**, an innovative game tha
    - One square on the board is always left empty to allow for piece movement.
 4. **Winning:** Successfully move your King to the opposite corner in the fewest moves possible. 
 
-## Installation
-
-This section would include instructions on how to install or access the game, depending on its format (e.g., a downloadable game, a mobile app, or a web-based game).
-
 ## Contributing
 
 I welcome contributions to **Regal Rumble: The Compact Chess Challenge**! If you have suggestions for improving the game or have found a way to beat the current record, please feel free to contribute. Here's how you can do so:
